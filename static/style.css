@@ -1,0 +1,22 @@
+h1{
+    background-color: white;
+}
+
+body {
+    margin-top: 3em;
+    background-color: black;
+    color: orange;
+    text-align: center;
+    font-size: 30pt;
+    font-family: "Copperplate", Fantasy;
+}
+
+img {
+    border-radius: 8px;
+    width: 852px;
+    height: 480px;
+}
+
+p {
+    background-color: red;
+}
